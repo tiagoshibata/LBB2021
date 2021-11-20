@@ -1,0 +1,299 @@
+
+ - FastME 2.1.6.2 - 
+
+
+Paper to be cited:
+
+FastME 2.0 - A comprehensive, accurate and fast distance-based phylogeny inference program.
+	Vincent Lefort, Richard Desper and Olivier Gascuel,
+	Molecular Biology and Evolution 32(10), 2798-800, 2015.
+
+-------------------------------------------------------------------------------
+Settings for this run:
+
+  I                                      Input data type  Matrix          
+  D                                   Number of datasets  21              
+  M                         Initial tree building method  TaxAdd_BalME    
+  N                                   NNI postprocessing  NNI_BalME       
+  S                                   SPR postprocessing  no              
+
+-------------------------------------------------------------------------------
+Dataset 1
+	Tree length is 2.12125207	Before NNI:     tree length is 2.12125207
+	NNI      1: new tree length is 2.11589823
+	NNI      2: new tree length is 2.11036163
+	NNI      3: new tree length is 2.10672280
+	NNI      4: new tree length is 2.10284307
+	NNI      5: new tree length is 2.10186896
+	NNI      6: new tree length is 2.10030512
+	NNI      7: new tree length is 2.09982075
+	Performed 7 NNI(s).
+
+	Explained variance : 0.90667868
+Dataset 2
+	Tree length is 2.04631111	Before NNI:     tree length is 2.04631111
+	NNI      1: new tree length is 2.04098982
+	NNI      2: new tree length is 2.03546233
+	NNI      3: new tree length is 2.03174080
+	NNI      4: new tree length is 2.02864202
+	NNI      5: new tree length is 2.02483556
+	NNI      6: new tree length is 2.02235809
+	NNI      7: new tree length is 2.02167087
+	Performed 7 NNI(s).
+
+	Explained variance : 0.90833901
+Dataset 3
+	Tree length is 2.05554943	Before NNI:     tree length is 2.05554943
+	NNI      1: new tree length is 2.04836425
+	NNI      2: new tree length is 2.04019601
+	NNI      3: new tree length is 2.03530486
+	NNI      4: new tree length is 2.03418602
+	NNI      5: new tree length is 2.03406486
+	NNI      6: new tree length is 2.03374489
+	Performed 6 NNI(s).
+
+	Explained variance : 0.89760304
+Dataset 4
+	Tree length is 2.09877102	Before NNI:     tree length is 2.09877102
+	NNI      1: new tree length is 2.09662146
+	NNI      2: new tree length is 2.09566685
+	NNI      3: new tree length is 2.09483284
+	NNI      4: new tree length is 2.09457863
+	NNI      5: new tree length is 2.09306484
+	NNI      6: new tree length is 2.09175627
+	Performed 6 NNI(s).
+
+	Explained variance : 0.91787698
+Dataset 5
+	Tree length is 2.12920095	Before NNI:     tree length is 2.12920095
+	NNI      1: new tree length is 2.12601265
+	NNI      2: new tree length is 2.12489449
+	NNI      3: new tree length is 2.12424519
+	NNI      4: new tree length is 2.12359602
+	NNI      5: new tree length is 2.12310584
+	NNI      6: new tree length is 2.12161350
+	NNI      7: new tree length is 2.12061855
+	NNI      8: new tree length is 2.12046024
+	NNI      9: new tree length is 2.11961467
+	Performed 9 NNI(s).
+
+	Explained variance : 0.91158796
+Dataset 6
+	Tree length is 2.13599721	Before NNI:     tree length is 2.13599721
+	NNI      1: new tree length is 2.13134256
+	NNI      2: new tree length is 2.12912211
+	NNI      3: new tree length is 2.12624969
+	NNI      4: new tree length is 2.12172499
+	NNI      5: new tree length is 2.11710400
+	NNI      6: new tree length is 2.11456839
+	NNI      7: new tree length is 2.11425587
+	NNI      8: new tree length is 2.11319460
+	NNI      9: new tree length is 2.11268501
+	NNI     10: new tree length is 2.11253142
+	NNI     11: new tree length is 2.11105193
+	Performed 11 NNI(s).
+
+	Explained variance : 0.90080925
+Dataset 7
+	Tree length is 2.14630284	Before NNI:     tree length is 2.14630284
+	NNI      1: new tree length is 2.14538122
+	NNI      2: new tree length is 2.14461970
+	NNI      3: new tree length is 2.14378574
+	NNI      4: new tree length is 2.14294579
+	NNI      5: new tree length is 2.14192928
+	NNI      6: new tree length is 2.14016867
+	NNI      7: new tree length is 2.13892867
+	NNI      8: new tree length is 2.13689967
+	NNI      9: new tree length is 2.13637910
+	NNI     10: new tree length is 2.13622384
+	Performed 10 NNI(s).
+
+	Explained variance : 0.82765087
+Dataset 8
+	Tree length is 2.14262887	Before NNI:     tree length is 2.14262887
+	NNI      1: new tree length is 2.13823576
+	NNI      2: new tree length is 2.13553386
+	NNI      3: new tree length is 2.12997057
+	NNI      4: new tree length is 2.12819556
+	NNI      5: new tree length is 2.12538442
+	NNI      6: new tree length is 2.12377467
+	NNI      7: new tree length is 2.12235744
+	NNI      8: new tree length is 2.12129880
+	NNI      9: new tree length is 2.12052653
+	NNI     10: new tree length is 2.11940224
+	NNI     11: new tree length is 2.11894165
+	NNI     12: new tree length is 2.11725741
+	NNI     13: new tree length is 2.11722644
+	NNI     14: new tree length is 2.11637676
+	Performed 14 NNI(s).
+
+	Explained variance : 0.89378431
+Dataset 9
+	Tree length is 2.10395754	Before NNI:     tree length is 2.10395754
+	NNI      1: new tree length is 2.10120466
+	NNI      2: new tree length is 2.09812147
+	NNI      3: new tree length is 2.08971020
+	NNI      4: new tree length is 2.08664138
+	NNI      5: new tree length is 2.08423337
+	NNI      6: new tree length is 2.07944411
+	NNI      7: new tree length is 2.07703852
+	NNI      8: new tree length is 2.07514539
+	NNI      9: new tree length is 2.07436954
+	NNI     10: new tree length is 2.07333770
+	Performed 10 NNI(s).
+
+	Explained variance : 0.91269923
+Dataset 10
+	Tree length is 2.06815026	Before NNI:     tree length is 2.06815026
+	NNI      1: new tree length is 2.06278807
+	NNI      2: new tree length is 2.05773495
+	NNI      3: new tree length is 2.05453629
+	NNI      4: new tree length is 2.05216094
+	NNI      5: new tree length is 2.05104622
+	NNI      6: new tree length is 2.04979766
+	NNI      7: new tree length is 2.04894331
+	Performed 7 NNI(s).
+
+	Explained variance : 0.91529475
+Dataset 11
+	Tree length is 2.09847868	Before NNI:     tree length is 2.09847868
+	NNI      1: new tree length is 2.09391112
+	NNI      2: new tree length is 2.09175110
+	NNI      3: new tree length is 2.09093584
+	NNI      4: new tree length is 2.09080685
+	NNI      5: new tree length is 2.09077590
+	NNI      6: new tree length is 2.08986059
+	NNI      7: new tree length is 2.08977262
+	Performed 7 NNI(s).
+
+	Explained variance : 0.90423129
+Dataset 12
+	Tree length is 2.15939473	Before NNI:     tree length is 2.15939473
+	NNI      1: new tree length is 2.15292678
+	NNI      2: new tree length is 2.14603160
+	NNI      3: new tree length is 2.13921607
+	NNI      4: new tree length is 2.13643725
+	NNI      5: new tree length is 2.13482840
+	NNI      6: new tree length is 2.13332590
+	NNI      7: new tree length is 2.13190663
+	NNI      8: new tree length is 2.13023937
+	NNI      9: new tree length is 2.13001426
+	NNI     10: new tree length is 2.12922697
+	NNI     11: new tree length is 2.12848703
+	Performed 11 NNI(s).
+
+	Explained variance : 0.90254036
+Dataset 13
+	Tree length is 2.12697992	Before NNI:     tree length is 2.12697992
+	NNI      1: new tree length is 2.12100221
+	NNI      2: new tree length is 2.11536380
+	NNI      3: new tree length is 2.11361994
+	NNI      4: new tree length is 2.11179212
+	NNI      5: new tree length is 2.11009587
+	NNI      6: new tree length is 2.10887705
+	NNI      7: new tree length is 2.10812011
+	NNI      8: new tree length is 2.10774761
+	Performed 8 NNI(s).
+
+	Explained variance : 0.89418109
+Dataset 14
+	Tree length is 2.02233639	Before NNI:     tree length is 2.02233639
+	NNI      1: new tree length is 2.01656994
+	NNI      2: new tree length is 2.01411722
+	NNI      3: new tree length is 2.00741142
+	NNI      4: new tree length is 2.00542018
+	NNI      5: new tree length is 2.00269751
+	NNI      6: new tree length is 2.00108201
+	NNI      7: new tree length is 2.00037821
+	NNI      8: new tree length is 1.99972926
+	Performed 8 NNI(s).
+
+	Explained variance : 0.91973843
+Dataset 15
+	Tree length is 2.11022028	Before NNI:     tree length is 2.11022028
+	NNI      1: new tree length is 2.10379614
+	NNI      2: new tree length is 2.09678395
+	NNI      3: new tree length is 2.09538437
+	NNI      4: new tree length is 2.09491655
+	NNI      5: new tree length is 2.09443845
+	NNI      6: new tree length is 2.09338230
+	NNI      7: new tree length is 2.09246706
+	NNI      8: new tree length is 2.09233120
+	Performed 8 NNI(s).
+
+	Explained variance : 0.90944406
+Dataset 16
+	Tree length is 2.09556234	Before NNI:     tree length is 2.09556234
+	NNI      1: new tree length is 2.08968524
+	NNI      2: new tree length is 2.08294784
+	NNI      3: new tree length is 2.07715730
+	NNI      4: new tree length is 2.07447671
+	NNI      5: new tree length is 2.07342063
+	NNI      6: new tree length is 2.07246928
+	NNI      7: new tree length is 2.07175478
+	Performed 7 NNI(s).
+
+	Explained variance : 0.88057274
+Dataset 17
+	Tree length is 2.11521770	Before NNI:     tree length is 2.11521770
+	NNI      1: new tree length is 2.11184536
+	NNI      2: new tree length is 2.10586176
+	NNI      3: new tree length is 2.10370598
+	NNI      4: new tree length is 2.09957185
+	NNI      5: new tree length is 2.09863391
+	NNI      6: new tree length is 2.09832388
+	NNI      7: new tree length is 2.09732965
+	NNI      8: new tree length is 2.09668056
+	Performed 8 NNI(s).
+
+	Explained variance : 0.87501744
+Dataset 18
+	Tree length is 2.13230226	Before NNI:     tree length is 2.13230226
+	NNI      1: new tree length is 2.12641252
+	NNI      2: new tree length is 2.12232339
+	NNI      3: new tree length is 2.11870606
+	NNI      4: new tree length is 2.11541451
+	Performed 4 NNI(s).
+
+	Explained variance : 0.90162723
+Dataset 19
+	Tree length is 2.05642548	Before NNI:     tree length is 2.05642548
+	NNI      1: new tree length is 2.05407658
+	NNI      2: new tree length is 2.05063260
+	NNI      3: new tree length is 2.04864203
+	NNI      4: new tree length is 2.04684554
+	NNI      5: new tree length is 2.04512346
+	NNI      6: new tree length is 2.04401733
+	NNI      7: new tree length is 2.04289230
+	NNI      8: new tree length is 2.04212272
+	NNI      9: new tree length is 2.04159032
+	NNI     10: new tree length is 2.04097983
+	Performed 10 NNI(s).
+
+	Explained variance : 0.82518561
+Dataset 20
+	Tree length is 2.06337992	Before NNI:     tree length is 2.06337992
+	NNI      1: new tree length is 2.06121346
+	NNI      2: new tree length is 2.05916706
+	NNI      3: new tree length is 2.05784295
+	NNI      4: new tree length is 2.05708971
+	NNI      5: new tree length is 2.05636932
+	NNI      6: new tree length is 2.05615227
+	Performed 6 NNI(s).
+
+	Explained variance : 0.89877545
+Dataset 21
+	Tree length is 2.20255050	Before NNI:     tree length is 2.20255050
+	NNI      1: new tree length is 2.19721950
+	NNI      2: new tree length is 2.19022412
+	NNI      3: new tree length is 2.18656733
+	NNI      4: new tree length is 2.18496902
+	NNI      5: new tree length is 2.18359419
+	NNI      6: new tree length is 2.18241291
+	NNI      7: new tree length is 2.18116990
+	NNI      8: new tree length is 2.17952381
+	NNI      9: new tree length is 2.17928929
+	NNI     10: new tree length is 2.17888530
+	Performed 10 NNI(s).
+
+	Explained variance : 0.90352226
