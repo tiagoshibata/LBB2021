@@ -4,11 +4,6 @@ BGZIP=bgzip
 WGET=wget
 GUNZIP=gunzip
 
-echo Is this your path to samtools? $SAMTOOLS
-echo Is this your path to wget? $WGET
-echo Is this your path to gunzip? $GUNZIP
-echo Is this your path to bgzip? $BGZIP
-
 CHROM=11
 START=61000000
 END=62000000
